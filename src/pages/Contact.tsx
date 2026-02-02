@@ -72,7 +72,7 @@ export default function Contact() {
       {/* Hero Section - Full Width Image */}
       <section
         ref={(el) => { sectionRefs.current[0] = el; }}
-        className="relative h-[50vh] min-h-[350px]"
+        className="relative h-[60vh] min-h-[400px]"
       >
         {/* Background Image */}
         <div className="absolute inset-0">
