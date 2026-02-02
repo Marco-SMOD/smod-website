@@ -55,7 +55,7 @@ const solutions = [
       'Sustainable construction',
     ],
     stats: [
-      { value: '222', label: 'Max Units/Project' },
+      { value: '7000', label: 'Max Units/Project' },
       { value: '<5%', label: 'Waste' },
     ],
     color: 'from-[#e53935] to-[#ef5350]',
