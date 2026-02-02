@@ -77,7 +77,7 @@ export default function Contact() {
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="/images/project-micropad.jpg"
+            src="/images/hero-contact.jpg"
             alt="SMOD Contact"
             className="w-full h-full object-cover"
           />
