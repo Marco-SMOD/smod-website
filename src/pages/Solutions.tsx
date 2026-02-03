@@ -109,18 +109,22 @@ export default function Solutions() {
 
   return (
     <main className="relative pt-20 bg-[#0a0a0f]">
-      {/* Hero Section - Full Width Image */}
+      {/* Hero Section - Full Width Video */}
       <section
         ref={(el) => { sectionRefs.current[0] = el; }}
-        className="relative h-[50vh] min-h-[350px]"
+        className="relative h-[60vh] min-h-[400px]"
       >
-        {/* Background Image */}
+        {/* Background Video */}
         <div className="absolute inset-0">
-          <img
-            src="/images/project-2711.jpg"
-            alt="SMOD Solutions"
+          <video
+            autoPlay
+            loop
+            muted
+            playsInline
             className="w-full h-full object-cover"
-          />
+          >
+            <source src="/videos/solution-video.mp4" type="video/mp4" />
+          </video>
           <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0f] via-[#0a0a0f]/60 to-[#0a0a0f]/30" />
         </div>
 
