@@ -83,7 +83,7 @@ export default function About() {
           <img
             src="/images/hero-about.png"
             alt="SMOD About"
-            className="w-full h-full object-cover object-[center_30%]"
+            className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-[#0a0a0f] via-[#0a0a0f]/60 to-[#0a0a0f]/30" />
         </div>
