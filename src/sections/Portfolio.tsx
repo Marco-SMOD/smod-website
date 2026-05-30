@@ -19,7 +19,7 @@ const projects = [
     status: 'Ongoing',
     completion: '2027',
     units: '78 units with 65 mods',
-    image: '/images/project-bamboo.jpg',
+    image: '/images/project-bamboo-v2.jpg',
   },
   {
     id: 3,

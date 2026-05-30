@@ -77,7 +77,7 @@ const projects = [
     units: '78 units',
     modules: '65 mods',
     description: 'Sustainable housing project in the Pacific Northwest with eco-friendly design principles.',
-    image: '/images/project-bamboo.jpg',
+    image: '/images/project-bamboo-v2.jpg',
     highlights: ['Eco-friendly', 'PNW location', 'Community focus'],
   },
 ];
